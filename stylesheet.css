@@ -1,0 +1,17 @@
+html{
+    background-color: #000000
+    text-align: center
+    }
+    
+.button {
+        background-color: #000000;
+        border: none;
+        color: #80adcd;
+        padding: 10px 10px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: -15x;
+        cursor: pointer;
+    font-family:Rockwell}
