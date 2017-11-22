@@ -1,5 +1,5 @@
 html{
-    background-image:url("pictures/mountain1.jpg");
+    background-image:url("pictures/blackbackground.jpg");
     background-repeat: no-repeat;
     background-attachment:fixed;
     background-size:cover;
@@ -8,8 +8,8 @@ html{
     }
     
 .button {
-        color: #80adcd;
-        background-color:black;
+        color: #719ebf;
+        background-color:none;
         padding: 10px 10px;
         text-align: center;
         text-decoration: none;
@@ -28,10 +28,13 @@ html{
 
 }
 .nav{
-    background-color:black;
+    background-color:none;
     width:35%;
     margin-left:auto;
     margin-right: auto;
     margin-top:20px;
     margin-bottom: 20px;
+}
+.shows {
+    color:#719ebf;
 }
