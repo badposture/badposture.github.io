@@ -1,12 +1,15 @@
 html{
-    background-color: #000000
-    text-align: center
+    background-image:url("pictures/mountain1.jpg");
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size:cover;
+    text-align: center;
+    font-family:Rockwell;
     }
     
 .button {
-        background-color: #000000;
-        border: none;
         color: #80adcd;
+        background-color:black;
         padding: 10px 10px;
         text-align: center;
         text-decoration: none;
@@ -14,4 +17,20 @@ html{
         font-size: 16px;
         margin: -15x;
         cursor: pointer;
-    font-family:Rockwell}
+}
+.button:hover{
+    color:#608dad;
+}
+
+.title {
+    font-size:5rem;
+
+}
+.nav{
+    background-color:black;
+    width:35%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
