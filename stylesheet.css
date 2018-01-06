@@ -17,9 +17,9 @@ html{
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 1em;
+        font-size: 2em;
         cursor: pointer; 
-        padding-left:20%
+        padding-left:10%
 }
 .button:hover{
     color:green;
