@@ -2,8 +2,6 @@
 html{
     background-color: black;
     background-repeat:no-repeat;
-    background-attachment:fixed;
-    background-size:cover;
     text-align: center;
     font-family:tree;
     margin: 0;
@@ -22,7 +20,6 @@ html{
         text-decoration: none;
         display: inline-block;
         font-size: 4em;
-        margin:-15px;
         cursor: pointer; 
         padding-left:20%;
 }
