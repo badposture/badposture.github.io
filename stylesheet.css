@@ -1,42 +1,58 @@
+@font-face{font-family:tree;src:url(treefont.ttf)}
 html{
-    background-image:url("pictures/blackbackground.jpg");
-    background-repeat: no-repeat;
+    background-color: black;
+    background-repeat:no-repeat;
     background-attachment:fixed;
     background-size:cover;
     text-align: center;
-    font-family:Rockwell;
+    font-family:tree;
+    margin: 0;
+    padding:0;
+    height:100%;
+    width:100%;
+    overflow: scroll;
     }
-    
+   
 .button {
-        color: #719ebf;
+        display: flex;
+        color: white;
         background-color:none;
-        padding: 10px 10px;
+        padding:20px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 20px;
-        margin: -15x;
-        cursor: pointer;
+        font-size: 4em;
+        margin:-15px;
+        cursor: pointer; 
+        padding-left:20%;
 }
 .button:hover{
-    color:#608dad;
+    color:green;
 }
-
+.no_indent{
+    padding-left:2%;
+}
 .title {
     font-size:8rem;
     font-size:8rem;
 
 }
 .nav{
+    diplay:flex;
     background-color:none;
     margin-left:auto;
     margin-right: auto;
     margin-top:20px;
     margin-bottom: 20px;
+    width: 100%;
+    text-align: left;
+    justify-content: space-between;
+
 }
 .shows {
-    color:#719ebf;
+    color:white;
 }
 .photots {
     margin: 100px;
 }
+
