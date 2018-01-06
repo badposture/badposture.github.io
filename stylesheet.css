@@ -1,6 +1,6 @@
 @font-face{font-family:tree;src:url(treefont.ttf)}
 html{
-    background-color: black;
+    background-image: url(pictures/whitepaper.jpg);
     background-repeat:no-repeat;
     text-align: center;
     font-family:tree;
