@@ -1,18 +1,18 @@
 @font-face{font-family:aqua;src:url(home/Aqua.ttf)}
 html{
-    background-image: url(pictures/grad1.jpg);
+    background-image: url(pictures/erininsta.PNG);
     background-repeat:repeat;
     background-size:cover;
     text-align: center;
     font-family:aqua;
     margin: 0;
-    height:100%;
+    height:8%;
     width:100%;
     }
-   
+
 .button {
         display: flex;
-        color: white;
+        color: black;
         background-color:none;
         text-align: center;
         text-decoration: none;
@@ -25,10 +25,10 @@ html{
     color:green;
 }
 .left_indent{
-    padding-left:2%;
+    padding-left:70%;
 }
 .right_indent{
-    padding-right:2%;
+    padding-right:30%;
 }
 .title {
     font-size:8rem;
@@ -39,9 +39,22 @@ html{
     display:flex;
     flex-wrap:nowrap;
     background-color:none;
-    max-width:100%;
+    max-width:50%;
     text-align: left;
     justify-content: space-between;
+    max-height: 500px;
+}
+.socialmedia{
+    display:flex;
+    flex-wrap:nowrap;
+    background-color:none;
+    max-width:25%;
+    text-align: center;
+    justify-content: space-between;
+    padding-left: 5%;
+    margin:0;
+}
+    
 }
 .shows {
     color:white;
