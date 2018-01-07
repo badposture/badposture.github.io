@@ -1,13 +1,13 @@
-@font-face{font-family:tree;src:url(treefont.ttf)}
+@font-face{font-family:aqua;src:url(home/Aqua.ttf)}
 html{
-    background-image: url(pictures/whitepaper.jpg);
+    background-image: url(pictures/grad1.jpg);
     background-repeat:repeat;
+    background-size:cover;
     text-align: center;
-    font-family:tree;
+    font-family:aqua;
     margin: 0;
     height:100%;
     width:100%;
-    overflow: scroll;
     }
    
 .button {
