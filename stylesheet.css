@@ -36,6 +36,12 @@ html{
     font-size:8rem;
 
 }
+.fatherfiguericon{
+    margin-left: 0;
+    padding-left:0;
+    width:200px;
+    height:100px;
+}
 .nav{
     display:flex;
     flex-wrap:nowrap;
