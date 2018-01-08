@@ -21,6 +21,7 @@ html{
         display: inline-block;
         font-size: 2em;
         cursor: pointer; 
+        margin:20px;
 
 }
 .button:hover{
@@ -54,6 +55,7 @@ html{
     justify-content: space-between;
     max-height: 600px;
     padding-right:30%;
+   
 }
 .socialmedia{
     display:flex;
