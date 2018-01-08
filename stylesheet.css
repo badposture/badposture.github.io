@@ -1,6 +1,6 @@
 @font-face{font-family:aqua;src:url(home/Aqua.ttf)}
 html{
-    background: linear-gradient(to left, #fff1ad 0%, #002142 100%);
+    background-image:url(pictures/grad3.png);
     background-repeat:no-repeat;
     background-size:cover;
     background-position:top ;
