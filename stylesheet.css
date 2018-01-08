@@ -61,10 +61,10 @@ html{
     display:flex;
     flex-wrap:nowrap;
     background-color:none;
-    max-width:25%;
+    max-width:40%;
     text-align: center;
     justify-content: space-between;
-    padding-left: 5%;
+    padding-left: 4%;
     margin:0;
 }
     
