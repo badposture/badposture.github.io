@@ -3,6 +3,7 @@ html{
     background-image: url(pictures/erininsta.PNG);
     background-repeat:repeat;
     background-size:cover;
+    background-position:center ;
     text-align: center;
     font-family:aqua;
     margin: 0;
