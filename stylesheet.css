@@ -1,9 +1,9 @@
 @font-face{font-family:aqua;src:url(home/Aqua.ttf)}
 html{
-    background-image: url(pictures/erininsta.PNG);
-    background-repeat:repeat;
+    background-image: url(pictures/grad1.jpg);
+    background-repeat:no-repeat;
     background-size:cover;
-    background-position:center ;
+    background-position:top ;
     text-align: center;
     font-family:aqua;
     margin: 0;
