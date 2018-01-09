@@ -29,10 +29,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
         cursor: pointer; 
         margin:20px;
 }
+.button2 {
+        display: flex;
+        color: black;
+        background-color:none;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 2em;
+        cursor: pointer; 
+        margin:20px;
+}
 .shows1{
-    background-image:url(pictures/showswhite.png);  
-    height:400px;
-    width:400px;
+    background-image:url(pictures/instaiconwhite.png);  
+    height:70px;
+    width:80px;
 }
 .photos{
    background-image:  image:url(pictures/photoswhite.png); 
@@ -78,9 +89,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     float:right;
     flex-direction:column;
     background-color:none;
-    max-width:10%;
     justify-content: space-between;
-    max-height: 600px;
     padding-right:30%;
    
 }
