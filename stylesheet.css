@@ -42,27 +42,27 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .shows1{
     background-image:url(pictures/showswhite.png); 
-    background-size: 100px 130px;
-    height:134px;
-    width:104px;
+    background-size: 80px 100px;
+    height:104px;
+    width:90px;
 }
 .photos{
-   background-image:  image:url(pictures/photoswhite.png); 
-    background-size: 100px 130px;
-    height:134px;
-    width:104px;
+   background-image:url(pictures/photoswhite.png); 
+    background-size: 80px 100px;
+    height:104px;
+    width:90px;
 }
 .about{
     background-image: url(pictures/aboutwhite.png);
-     background-size: 100px 130px;
-    height:134px;
-    width:104px;
+     background-size: 80px 100px;
+    height:104px;
+    width:90px;
 }
 .contact{
     background-image: url(pictures/contactwhite.png);
-     background-size: 100px 130px;
-    height:134px;
-    width:104px;
+     background-size: 80px 100px;
+    height:104px;
+    width:90px;
 }
 .button:hover{
     color:green;
@@ -101,6 +101,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     background-color:none;
     justify-content: space-between;
     padding-right:30%;
+    max-height: 400px;
    
 }
 .socialmedia{
