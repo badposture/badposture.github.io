@@ -31,28 +31,38 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .button2 {
         display: flex;
-        color: black;
         background-color:none;
         text-align: center;
         text-decoration: none;
         display: inline-block;
-        font-size: 2em;
-        cursor: pointer; 
-        margin:20px;
+        cursor: pointer;
+        padding:0;
+        margin: 0;
+        
 }
 .shows1{
-    background-image:url(pictures/instaiconwhite.png);  
-    height:70px;
-    width:80px;
+    background-image:url(pictures/showswhite.png); 
+    background-size: 100px 130px;
+    height:134px;
+    width:104px;
 }
 .photos{
    background-image:  image:url(pictures/photoswhite.png); 
+    background-size: 100px 130px;
+    height:134px;
+    width:104px;
 }
 .about{
     background-image: url(pictures/aboutwhite.png);
+     background-size: 100px 130px;
+    height:134px;
+    width:104px;
 }
 .contact{
     background-image: url(pictures/contactwhite.png);
+     background-size: 100px 130px;
+    height:134px;
+    width:104px;
 }
 .button:hover{
     color:green;
