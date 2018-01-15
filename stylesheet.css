@@ -45,6 +45,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     background-size: 80px 100px;
     height:104px;
     width:90px;
+    
+}
+.text{
+    text-align: left;
+    padding-left: 40%;
+}
+.bold{
+    font-weight:bold;
+}
 }
 .photos{
    background-image:url(pictures/photoswhite.png); 
@@ -68,7 +77,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     color:green;
 }
 .left_indent{
-    padding-left:170%;
+    padding-left:300%;
 }
 .right_indent{
     padding-right:30%;
