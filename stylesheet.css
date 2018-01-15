@@ -108,7 +108,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     display:flex;
     flex-wrap:nowrap;
     background-color:none;
-    max-width:35%;
+    max-width:20%;
     text-align: center;
     justify-content: space-between;
     padding-left: 6%;
