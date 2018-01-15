@@ -38,7 +38,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
         cursor: pointer;
         padding:0;
         margin: 0;
-        
+    
+}
+.fbbutton{
+    background-color:none;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        cursor: pointer;
+        padding:0;
+    margin:0;
 }
 .shows1{
     background-image:url(pictures/showswhite.png); 
@@ -63,6 +72,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .about{
     background-image: url(pictures/aboutwhite.png);
+     background-size: 80px 100px;
+    height:104px;
+    width:90px;
+}
+.music{
+     background-image: url(pictures/music4.png);
      background-size: 80px 100px;
     height:104px;
     width:90px;
