@@ -50,10 +50,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     margin:0;
 }
 .shows1{
-    background-image:url(pictures/showswhite.png); 
-    background-size: 80px 100px;
-    height:104px;
-    width:90px;
+    background-image:url(pictures/shows6.png); 
+    background-size: 40 70px;
+    height:74px;
+    width:44px;
     
 }
 .text{
@@ -65,25 +65,25 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 }
 .photos{
-   background-image:url(pictures/photoswhite.png); 
+   background-image:url(pictures/photos6.png); 
+    background-size: 70px 90px;
+    height:20%;
+    width:20%;
+}
+.about{
+    background-image: url(pictures/about7.png);
     background-size: 80px 100px;
     height:104px;
     width:90px;
 }
-.about{
-    background-image: url(pictures/aboutwhite.png);
-     background-size: 80px 100px;
-    height:104px;
-    width:90px;
-}
 .music{
-     background-image: url(pictures/music4.png);
+     background-image: url(pictures/music6.png);
      background-size: 80px 100px;
     height:104px;
     width:90px;
 }
 .contact{
-    background-image: url(pictures/contactwhite.png);
+    background-image: url(pictures/contact6.png);
      background-size: 80px 100px;
     height:104px;
     width:90px;
@@ -125,7 +125,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     background-color:none;
     justify-content: space-between;
     padding-right:30%;
-    max-height: 400px;
+   
    
 }
 .socialmedia{
