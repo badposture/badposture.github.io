@@ -36,8 +36,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
         text-decoration: none;
         display: inline-block;
         cursor: pointer;
-        padding:0;
-        margin: 0;
+        justify-content: space-between
+        max-height:400px;
+        margin-bottom:33px;
+    flex-wrap:nowrap;
+    float:right;
+        
+    
     
 }
 .fbbutton{
@@ -51,9 +56,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .shows1{
     background-image:url(pictures/shows6.png); 
-    background-size: 40 70px;
-    height:74px;
-    width:44px;
+   background-size: 80px 60px;
+    height:60px;
+    width:80px;
     
 }
 .text{
@@ -72,21 +77,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .about{
     background-image: url(pictures/about7.png);
-    background-size: 80px 100px;
-    height:104px;
-    width:90px;
+   background-size: 80px 60px;
+    height:60px;
+    width:80px;
 }
 .music{
      background-image: url(pictures/music6.png);
-     background-size: 80px 100px;
-    height:104px;
-    width:90px;
+    background-size: 80px 60px;
+    height:60px;
+    width:80px;
 }
 .contact{
     background-image: url(pictures/contact6.png);
-     background-size: 80px 100px;
-    height:104px;
-    width:90px;
+    background-size: 80px 60px;
+    height:60px;
+    width:80px;
 }
 .button:hover{
     color:green;
@@ -122,11 +127,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     display:flex;
     float:right;
     flex-direction:column;
+    float:right;
     background-color:none;
-    justify-content: space-between;
+    justify-content:space-between;
     padding-right:30%;
+    max-height: 400px;
    
-   
+
 }
 .socialmedia{
     display:flex;
