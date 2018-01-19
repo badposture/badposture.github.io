@@ -39,8 +39,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
         justify-content: space-between
         max-height:400px;
         margin-bottom:33px;
-    flex-wrap:nowrap;
-    float:right;
+        flex-wrap:nowrap;
+        float:right;
         
     
     
@@ -94,7 +94,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     width:80px;
 }
 .button:hover{
-    color:green;
+    color:dodgerblue;
 }
 .left_indent{
     padding-left:300%;
@@ -139,7 +139,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     display:flex;
     flex-wrap:nowrap;
     background-color:none;
-    max-width:20%;
+    max-width:250px;
     text-align: center;
     justify-content: space-between;
     padding-left: 6%;
