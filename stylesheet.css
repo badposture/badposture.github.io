@@ -31,6 +31,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .button2 {
         display: flex;
+        flex-direction:column;
         background-color:none;
         text-align: center;
         text-decoration: none;
@@ -38,9 +39,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
         cursor: pointer;
         justify-content: space-between
         max-height:400px;
-        margin-bottom:33px;
+        margin-top:10px;
+        margin-bottom: 10px;
         flex-wrap:nowrap;
         float:right;
+   
         
     
     
@@ -97,7 +100,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     color:dodgerblue;
 }
 .left_indent{
-    padding-left:300%;
+    display:flex;
+    float:right;
+    padding-left:900px;
+    font-size: 2em;
+    font-family: tree;
 }
 .right_indent{
     padding-right:30%;
@@ -113,6 +120,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     width:500px;
     height:400px;
     float:left;
+    margin-top:10px;
 }
 .aboutpicture{
     display:flex;
@@ -135,15 +143,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
    
 
 }
+
 .socialmedia{
     display:flex;
     flex-wrap:nowrap;
     background-color:none;
-    max-width:250px;
-    text-align: center;
+   max-width: 250px;
     justify-content: space-between;
     padding-left: 6%;
     margin:0;
+    float:left;
+
 }
     
 }
