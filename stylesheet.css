@@ -17,35 +17,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     width:100%;
     background-attachment: fixed;
     }
-
-.button {
-        display: flex;
-        color: black;
-        background-color:none;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        font-size: 2em;
-        cursor: pointer; 
-        margin:20px;
-}
-.button2 {
-        display: flex;
-        flex-direction:column;
-        background-color:none;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        cursor: pointer;
-        justify-content: space-between
-        max-height:400px;
-        margin-top:.5px;
-        margin-bottom: .5px;
-        flex-wrap:nowrap;
-        float:right;
-   
-        
-    
+  
     
 }
 .fbbutton{
@@ -125,7 +97,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     
 };
 .aboutpicture{
-    display:flex;
+    display:block;
     width:650px;
     height:650px;
     transform: rotate(270deg);
