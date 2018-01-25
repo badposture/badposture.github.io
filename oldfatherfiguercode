@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+ <a href="photos.html"class="button2 photos"> </a>
 <html>
 background: linear-gradient(to left, #fff1ad 0%, #002142 100%);
 
