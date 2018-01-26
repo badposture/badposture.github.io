@@ -18,10 +18,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     background-attachment: fixed;
     }
   
-    
-}
 .fbbutton{
-    background-color:none;
         text-align: center;
         text-decoration: none;
         display: inline-block;
@@ -42,7 +39,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 }
 .bold{
     font-weight:bold;
-}
 }
 .photos{
    background-image:url(pictures/photosc.png); 
@@ -95,9 +91,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     width:650px;
     height:550px;
     
-};
+}
 .aboutpicture{
-    display:block;
+    display:flex;
     width:650px;
     height:650px;
     transform: rotate(270deg);
@@ -108,11 +104,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 .nav{
     display:flex;
     flex-direction:row;
-    background-color:none;
     justify-content:space-between;
     margin:auto;
     margin-left:auto;
     margin-right:auto;
+    margin-bottom:15px;
+    
     max-width:650px;
     ;
     
@@ -122,13 +119,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 .socialmedia{
     display:flex;
     flex-wrap:nowrap;
-    background-color:none;
     max-width: 250px;
     justify-content: space-between;
     margin-right:auto;
     margin-left:auto;
     margin:auto;
-    
+    margin-bottom: 15px;
 
 }
     
