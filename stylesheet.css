@@ -109,8 +109,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
     margin-left:auto;
     margin-right:auto;
     margin-bottom:15px;
-    
-    max-width:650px;
+    width:650px;
     ;
     
 
@@ -119,7 +118,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', end
 .socialmedia{
     display:flex;
     flex-wrap:nowrap;
-    max-width: 250px;
+    width: 250px;
     justify-content: space-between;
     margin-right:auto;
     margin-left:auto;
