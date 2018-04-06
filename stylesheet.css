@@ -25,7 +25,11 @@ html{
 .five{
     background-image:url(pictures/jaycollage1.png);
 }
-
+.contact1{
+    text-align: center;
+    font-size: 1rem;
+    background-color:skyblue;
+}
 
 .fbbutton{
         text-align: center;
@@ -72,6 +76,7 @@ html{
     background-size: 120px 100px;
     height:100px;
     width:120px;
+    
 }
 
 .button:hover{
