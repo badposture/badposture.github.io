@@ -1,23 +1,32 @@
 @font-face{font-family:aqua;src:url(home/Aqua.ttf)}
 html{
-    background: -moz-linear-gradient(57deg, rgba(142,202,237,1) 0%, rgba(245,252,252,1) 100%); /* ff3.6+ */
-background: -webkit-gradient(linear, left bottom, right top, color-stop(0%, rgba(142,202,237,1)), color-stop(100%, rgba(245,252,252,1))); /* safari4+,chrome */
-background: -webkit-linear-gradient(57deg, rgba(142,202,237,1) 0%, rgba(245,252,252,1) 100%); /* safari5.1+,chrome10+ */
-background: -o-linear-gradient(57deg, rgba(142,202,237,1) 0%, rgba(245,252,252,1) 100%); /* opera 11.10+ */
-background: -ms-linear-gradient(57deg, rgba(142,202,237,1) 0%, rgba(245,252,252,1) 100%); /* ie10+ */
-background: linear-gradient(33deg, rgba(142,202,237,1) 0%, rgba(245,252,252,1) 100%); /* w3c */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#F5FCFC', endColorstr='#8ECAED',GradientType=0 ); /* ie6-9 */
-    background-repeat:no-repeat;
-    background-size:cover;
-    background-position:top ;
-    text-align: center;
-    font-family:aqua;
-    margin: 0;
-    height:100%;
-    width:100%;
-    background-attachment: fixed;
-    }
-  
+        background-repeat:no-repeat;
+        background-size:cover;
+        background-position:top ;
+        text-align: center;
+        font-family:aqua;
+        margin: 0;
+        height:100%;
+        width:100%;
+        background-attachment: fixed;
+}
+.one{
+    background-image:url(pictures/jaycollage1.png);
+}
+.two{
+    background-image:url(pictures/jaycollage2.jpg);
+}
+.three{
+    background-image:url(pictures/jaycollage3.jpg);
+}
+.four{
+    background-image:url(pictures/jaycollage4.jpg);
+}
+.five{
+    background-image:url(pictures/jaycollage1.png);
+}
+
+
 .fbbutton{
         text-align: center;
         text-decoration: none;
