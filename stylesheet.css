@@ -10,6 +10,11 @@ html{
         width:100%;
         background-attachment: fixed;
 }
+.fatherfiguer{
+     text-align: center;
+    font-size: 6rem;
+    background-color:skyblue;
+}
 .one{
     background-image:url(pictures/jaycollage1.png);
 }
@@ -120,10 +125,8 @@ html{
     flex-direction:row;
     justify-content:space-between;
     margin:auto;
-    margin-left:auto;
-    margin-right:auto;
-    margin-bottom:15px;
-    width:650px;
+    width:50%;
+    
     ;
     
 
@@ -132,12 +135,11 @@ html{
 .socialmedia{
     display:flex;
     flex-wrap:nowrap;
-    width: 250px;
-    justify-content: space-between;
-    margin-right:auto;
-    margin-left:auto;
+    flex-direction:row;
+    justify-content:space-between;
+    margin-left: 90%;
     margin:auto;
-    margin-bottom: 15px;
+    width:10%;
 
 }
     
