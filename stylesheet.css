@@ -127,9 +127,6 @@ html{
     margin:auto;
     width:50%;
     
-    ;
-    
-
 }
 
 .socialmedia{
@@ -137,8 +134,7 @@ html{
     flex-wrap:nowrap;
     flex-direction:row;
     justify-content:space-between;
-    margin-left: 90%;
-    margin:auto;
+    margin-left: 85%;
     width:10%;
 
 }
